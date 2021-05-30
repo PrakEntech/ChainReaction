@@ -2,7 +2,6 @@ from tkinter import *
 import tkinter.font as font
 open('color.txt','w+').write('red')
 open('press.txt','w+').write('0')
-#clk2.configure(state=DISABLED)
 root = Tk()
 root.title('Chain Reaction By-Prakhar')
 root.iconbitmap(None)
